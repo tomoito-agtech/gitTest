@@ -13,8 +13,15 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
+
 - script: |
-    dotnet build --configuration $(buildConfiguration)
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
+- task: VSBuild@1
+  displayName: 'Build solution **\*.sln'
+  inputs:
+    solution: '$(Parameters.solution)'
+    msbuildArgs: '/p:DotfuscatorMSBuildDir="{install dir}\tools\msbuilddir"'
+    platform: '$(BuildPlatform)'
+    configuration: '$(BuildConfiguration)'
