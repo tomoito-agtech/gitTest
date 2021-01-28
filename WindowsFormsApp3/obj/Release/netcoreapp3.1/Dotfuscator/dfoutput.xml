@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Output>
+  <OutputAssemblies>
+    <File>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\Dotfuscator\dfout\WindowsFormsApp3.dll</File>
+  </OutputAssemblies>
+  <SatelliteAssemblies />
+  <DebugSymbols />
+  <MappingFile>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\DotfuscatorReports\Release\AnyCPU\Renaming.xml</MappingFile>
+  <ReportFiles>
+    <File>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\DotfuscatorReports\Release\AnyCPU\Removal.xml</File>
+    <File>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\DotfuscatorReports\Release\AnyCPU\SmartObfuscation.xml</File>
+  </ReportFiles>
+  <MarkupFiles />
+  <OutputAssembliesInternal>
+    <File NewPath="C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\Dotfuscator\dfout\WindowsFormsApp3.dll" OldPath="C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.dll" />
+  </OutputAssembliesInternal>
+  <Pdbs />
+</Output>

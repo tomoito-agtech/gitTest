@@ -1,0 +1,30 @@
+﻿<Project>
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk.WindowsDesktop" />
+
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk.WindowsDesktop" />
+
+
+  <Import Project="$([System.Environment]::GetFolderPath(SpecialFolder.UserProfile))\.dotfuscator.user.props"
+          Condition="Exists('$([System.Environment]::GetFolderPath(SpecialFolder.UserProfile))\.dotfuscator.user.props')"/>
+
+  <PropertyGroup>
+
+    <DotfuscatorMSBuildDir Condition="'$(DotfuscatorMSBuildDir)' == ''">$(MSBuildProgramFiles32)\MSBuild\PreEmptive\Dotfuscator\6</DotfuscatorMSBuildDir>
+
+    <DotfuscatorGenerateConfigFileIfMissing>true</DotfuscatorGenerateConfigFileIfMissing>
+
+    <DotfuscatorEnabled Condition="'$(Configuration)' == 'Release'">true</DotfuscatorEnabled>
+
+  </PropertyGroup>
+
+  <Import Project="$(DotfuscatorMSBuildDir)\PreEmptive.Dotfuscator.Common.targets" />
+</Project>
+
+
+

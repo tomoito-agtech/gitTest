@@ -1,0 +1,15 @@
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.Form1.resources
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.AssemblyInfoInputs.cache
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.AssemblyInfo.cs
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\netcoreapp3.1\WindowsFormsApp3.exe
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\netcoreapp3.1\WindowsFormsApp3.deps.json
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\netcoreapp3.1\WindowsFormsApp3.runtimeconfig.json
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\netcoreapp3.1\WindowsFormsApp3.runtimeconfig.dev.json
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\netcoreapp3.1\WindowsFormsApp3.dll
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\netcoreapp3.1\WindowsFormsApp3.pdb
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.dll
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.pdb
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\Dotfuscator\dfout\WindowsFormsApp3.dll
+C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.genruntimeconfig.cache

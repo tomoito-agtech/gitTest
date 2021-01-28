@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dotfuscatorRemoval SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscatorRemoval_v1.0.dtd">
+<dotfuscatorRemoval version="1.0">
+    <header>
+        <timestamp>2021-01-28T11:51:11</timestamp>
+        <product version="6.2.1+967d2fe417" user="phossain@agtech.co.jp" serial="############################F459">PreEmptive Protection Dotfuscator Professional</product>
+    </header>
+    <detail>
+        <module pruned="false">
+            <name>WindowsFormsApp3.dll</name>
+            <resourcelist>
+                <resource pruned="false">
+                    <name>WindowsFormsApp3.Form1.resources</name>
+                </resource>
+            </resourcelist>
+            <methodlist />
+            <fieldlist />
+            <propertylist />
+            <eventlist />
+            <type pruned="false">
+                <name>WindowsFormsApp3.Class1</name>
+                <methodlist>
+                    <method pruned="false">
+                        <signature>void()</signature>
+                        <name>.ctor</name>
+                    </method>
+                    <method pruned="false">
+                        <signature>int32(int32)</signature>
+                        <name>CalcReturn</name>
+                    </method>
+                    <method pruned="false">
+                        <signature>int32(int32)</signature>
+                        <name>CalcSomething</name>
+                    </method>
+                    <method pruned="false">
+                        <signature>string()</signature>
+                        <name>SaySomething</name>
+                    </method>
+                </methodlist>
+                <fieldlist />
+                <propertylist />
+                <eventlist />
+            </type>
+            <type pruned="false">
+                <name>WindowsFormsApp3.Form1</name>
+                <methodlist>
+                    <method pruned="false">
+                        <signature>void()</signature>
+                        <name>.ctor</name>
+                    </method>
+                    <method pruned="false">
+                        <signature>string(int32)</signature>
+                        <name>Count</name>
+                    </method>
+                    <method pruned="false">
+                        <signature>void(bool)</signature>
+                        <name>Dispose</name>
+                    </method>
+                    <method pruned="false">
+                        <signature>void()</signature>
+                        <name>InitializeComponent</name>
+                    </method>
+                    <method pruned="false">
+                        <signature>void(object, System.EventArgs)</signature>
+                        <name>button1_Click</name>
+                    </method>
+                </methodlist>
+                <fieldlist>
+                    <field pruned="false">
+                        <signature>System.Windows.Forms.Button</signature>
+                        <name>button1</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Class1</signature>
+                        <name>cls1</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>System.ComponentModel.IContainer</signature>
+                        <name>components</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>System.Windows.Forms.Label</signature>
+                        <name>label1</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>System.Windows.Forms.Label</signature>
+                        <name>label2</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>int32</signature>
+                        <name>numPriate</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>int32</signature>
+                        <name>numPublic</name>
+                    </field>
+                </fieldlist>
+                <propertylist />
+                <eventlist />
+            </type>
+            <type pruned="false">
+                <name>WindowsFormsApp3.Form1/Days</name>
+                <methodlist />
+                <fieldlist>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Form1/Days</signature>
+                        <name>Fri</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Form1/Days</signature>
+                        <name>Mon</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Form1/Days</signature>
+                        <name>Sat</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Form1/Days</signature>
+                        <name>Sun</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Form1/Days</signature>
+                        <name>Thu</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Form1/Days</signature>
+                        <name>Tue</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>WindowsFormsApp3.Form1/Days</signature>
+                        <name>Wed</name>
+                    </field>
+                    <field pruned="false">
+                        <signature>int32</signature>
+                        <name>value__</name>
+                    </field>
+                </fieldlist>
+                <propertylist />
+                <eventlist />
+            </type>
+            <type pruned="false">
+                <name>WindowsFormsApp3.Program</name>
+                <methodlist>
+                    <method pruned="false">
+                        <signature>void()</signature>
+                        <name>Main</name>
+                    </method>
+                </methodlist>
+                <fieldlist />
+                <propertylist />
+                <eventlist />
+            </type>
+        </module>
+    </detail>
+    <statistics>
+        <statisticline>
+            <description>Total Modules</description>
+            <statistic>1</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Managed Resources</description>
+            <statistic>1</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Types</description>
+            <statistic>5</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Methods</description>
+            <statistic>10</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Fields</description>
+            <statistic>15</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Properties</description>
+            <statistic>0</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Events</description>
+            <statistic>0</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Modules Pruned</description>
+            <statistic>0</statistic>
+            <statistic>0.00 %</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Managed Resources Pruned</description>
+            <statistic>0</statistic>
+            <statistic>0.00 %</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Types Pruned</description>
+            <statistic>0</statistic>
+            <statistic>0.00 %</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Methods Pruned</description>
+            <statistic>0</statistic>
+            <statistic>0.00 %</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Fields Pruned</description>
+            <statistic>0</statistic>
+            <statistic>0.00 %</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Properties Pruned</description>
+            <statistic>0</statistic>
+            <statistic>0.00 %</statistic>
+        </statisticline>
+        <statisticline>
+            <description>Total Events Pruned</description>
+            <statistic>0</statistic>
+            <statistic>0.00 %</statistic>
+        </statisticline>
+    </statistics>
+</dotfuscatorRemoval>

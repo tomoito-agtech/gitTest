@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Build>
+  <ConfigPath>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\DotfuscatorConfig.xml</ConfigPath>
+  <Properties>
+    <configuration>Release</configuration>
+    <platform>AnyCPU</platform>
+    <dotfuscatorplatform>.NETCoreApp</dotfuscatorplatform>
+    <androidsigningcertfingerprint></androidsigningcertfingerprint>
+    <dotfuscatorbuildsystemoutputpath>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\netcoreapp3.1\</dotfuscatorbuildsystemoutputpath>
+  </Properties>
+  <InputManagement>automatic</InputManagement>
+  <DotfuscatorOutputDirectory>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\Dotfuscator\dfout</DotfuscatorOutputDirectory>
+  <DotfuscatorResponsePath>obj\Release\netcoreapp3.1\Dotfuscator\dfoutput.xml</DotfuscatorResponsePath>
+  <UserDefinedLoadPaths>
+    <LoadPath>C:\Program Files\dotnet\packs\Microsoft.WindowsDesktop.App.Ref\3.1.0\ref\netcoreapp3.1\</LoadPath>
+    <LoadPath>C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1\</LoadPath>
+  </UserDefinedLoadPaths>
+  <InputAssemblies>
+    <Input ItemSpec="obj\Release\netcoreapp3.1\WindowsFormsApp3.dll" InputAssemblyType="" ProjectGuid="" FullPath="${configdir}\obj\Release\netcoreapp3.1\WindowsFormsApp3.dll" RefID="" DotfuscatorSignAssembly="" DotfuscatorDelaySign="" DotfuscatorKeyFile="" DotfuscatorKeyContainer="" />
+  </InputAssemblies>
+  <MSBuildVersion>16.6</MSBuildVersion>
+</Build>

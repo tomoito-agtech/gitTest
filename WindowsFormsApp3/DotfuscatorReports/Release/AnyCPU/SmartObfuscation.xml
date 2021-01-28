@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dotfuscatorSmartObfuscation SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscatorSmartObfuscation_v1.0.dtd">
+<dotfuscatorSmartObfuscation version="1.0">
+    <header>
+        <timestamp>2021-01-28T11:51:12</timestamp>
+        <product version="6.2.1+967d2fe417" user="phossain@agtech.co.jp" serial="############################F459">PreEmptive Protection Dotfuscator Professional</product>
+    </header>
+    <smartdetails>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>ユーザー型</itemtype>
+                <name>WindowsFormsApp3.Form1/Days</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Sat</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Sat</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Fri</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Fri</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Thu</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Thu</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Wed</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Wed</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Tue</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Tue</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Mon</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Mon</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::value__</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::value__</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>ユーザー型</itemtype>
+                <name>WindowsFormsApp3.Form1/Days</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Sun</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>不要コードの除去から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+        <detail warning="false">
+            <rule>EnumRule</rule>
+            <markeditem>
+                <itemtype>フィールド</itemtype>
+                <name>WindowsFormsApp3.Form1/Days::Sun</name>
+            </markeditem>
+            <operation>は除外されました</operation>
+            <component>名前の変更から</component>
+            <reasons>
+                <reason>ToString() は、メソッド WindowsFormsApp3.Form1::void button1_Click(object, System.EventArgs) のこの列挙型で呼び出されます。</reason>
+            </reasons>
+        </detail>
+    </smartdetails>
+</dotfuscatorSmartObfuscation>

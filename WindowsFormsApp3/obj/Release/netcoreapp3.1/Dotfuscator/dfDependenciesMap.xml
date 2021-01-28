@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\Dotfuscator\dfout\WindowsFormsApp3.dll</new>
+    <old>C:\Users\EIGYO2_TEST\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\netcoreapp3.1\WindowsFormsApp3.dll</old>
+  </entry>
+</dependency-mappings>
